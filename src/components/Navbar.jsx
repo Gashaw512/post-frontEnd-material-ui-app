@@ -38,7 +38,7 @@ function Navbar(props) {
         <AppBar  width='100%' z-index='99999'>
 
             <StyledToolbar>
-                <Typography variant='h6' sx={{ display: { xs: 'none', sm: 'block' } }}>Logo</Typography>
+                <Typography variant='h6' sx={{ display: { xs: 'none', sm: 'block' } }}>GK Media App</Typography>
                 <AccessTimeFilledIcon sx={{ display: { xs: 'block', sm: 'none' } }} />
                 <Search><InputBase placeholder='Search ....' /></Search>
                 <Icons>

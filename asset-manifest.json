@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/post-frontEnd-material-ui-app/static/js/main.33403216.js",
+    "main.js": "/post-frontEnd-material-ui-app/static/js/main.d614dc96.js",
     "index.html": "/post-frontEnd-material-ui-app/index.html",
-    "main.33403216.js.map": "/post-frontEnd-material-ui-app/static/js/main.33403216.js.map"
+    "main.d614dc96.js.map": "/post-frontEnd-material-ui-app/static/js/main.d614dc96.js.map"
   },
   "entrypoints": [
-    "static/js/main.33403216.js"
+    "static/js/main.d614dc96.js"
   ]
 }
